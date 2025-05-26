@@ -13,7 +13,7 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Next5x&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 ### GITHUB TROPHIES
-![.](https://github-profile-Next5x.vercel.app/?username=Next5x)
+![.](https://github-contributor-stats.vercel.app/api?username=Next5x&limit=5&theme=black&combine_all_yearly_contributions=true)
 
 
 
