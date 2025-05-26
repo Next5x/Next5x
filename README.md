@@ -4,7 +4,7 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
 
 
 ### MY STATS:
-<p align="center"><a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x/TIMNASA_TMD1?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Next5x&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Next5x&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/Next5x"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
