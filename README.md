@@ -24,9 +24,9 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
 
 
 ### CONNECT WITH ME 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@heyits_tylor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/heyits_tylor)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/heyits_tylor)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Dark-Xploit)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@heyits_tylor)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/@timnasa-tmd?si=pnitcokiKJdhzhMA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/timoth2025)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TimnasaTech)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Next5x/TIMNASA_TMD1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@timnasa.tech.com?_r=1&_d=eji399aclgg389&sec_uid=MS4wLjABAAAAVBh_SMKbFvWGf41g6Y6X9M3f-CKo4abLKb5olzldlUMo4E7Z8AnLz0Oc1Ur-d-mi&share_author_id=7258985412184867845&sharer_language=en&source=h5_m&u_code=e95bdk112b8e75&timestamp=1748226873&user_id=7258985412184867845&sec_user_id=MS4wLjABAAAAVBh_SMKbFvWGf41g6Y6X9M3f-CKo4abLKb5olzldlUMo4E7Z8AnLz0Oc1Ur-d-mi&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7490180209771349778&share_link_id=8cc208f4-e25f-440c-8226-c2c6a86ae356&share_app_id=1233&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb7360&social_share_type=5&enable_checksum=1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/255784766591) 
