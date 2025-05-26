@@ -7,20 +7,20 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
 <p align="center"><a href="https://github.com/Next5x/followers"><img title="Followers" src="https://img.shields.io/github/followers/Next5x?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Next5x&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Next5x&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/Next5x"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Next5x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Xploit&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Next5x"><img src="https://github-readme-stats.vercel.app/api?username=Next5x&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Next5x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next5x&theme=radical&layout=compact"></a></p>
 
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Next5x&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 ### GITHUB TROPHIES
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Next5x)
+![Github Next5x](https://github-profile-Next5x.vercel.app/?username=Next5x)
 
 
 
 ### TOP CONTRIBUTIONS
 ![](https://github-contributor-stats.vercel.app/api?username=Next5x&limit=5&theme=black&combine_all_yearly_contributions=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Next5x&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Next5x&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Next5x/github-readme-activity-graph)
 
 
 ### CONNECT WITH ME 
