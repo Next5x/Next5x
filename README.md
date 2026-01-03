@@ -56,10 +56,6 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
   <img src="https://github-contributor-stats.vercel.app/api?username=Next5x&limit=5&theme=black&combine_all_yearly_contributions=true" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Next5x&limit=5&theme=black&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
-
 ---
 
 ### 📈 ACTIVITY GRAPH
@@ -75,18 +71,30 @@ I'm `Tylor` (TimnasaTech), a developer passionate about AI, chatbots and coding.
 <p align="center">
   <a href="https://youtube.com/@timnasa-tmd?si=pnitcokiKJdhzhMA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://chat.whatsapp.com/your-group-link"><img src="https://img.shields.io/badge/WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/TimnasaTech"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/timoth2025"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/timoth2025"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@timnasa.tech.com"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://wa.me/255784766591"><img src="https://img.shields.io/badge/Direct_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
+### 🤝 MY COLLABORATORS (TIMNASA TEAM)
+<p align="center">
+  Hawa ndio wataalamu wanaofanikisha mradi wa <b>TIMNASA_TMD1</b>:
+</p>
+
+<p align="center">
+<a href="https://github.com/Next5x/TIMNASA_TMD1/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Next5x/TIMNASA_TMD1" />
+</a>
+</p>
+
+---
+
 <p align="right">
-  <i>"Simplicity is the ultimate sophistication."</i> 🇹🇿
+  Built with Passion by <b>TIMNASA Tech</b> 🇹🇿
 </p>
